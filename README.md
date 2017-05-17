@@ -1,2 +1,2 @@
 # eloquent-javascript-exercises
-My solutions for the exercises in the book Eloquent JavaScript
+My solutions for the exercises in the book [Eloquent JavaScript](http://eloquentjavascript.net/)
